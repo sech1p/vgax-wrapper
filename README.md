@@ -12,9 +12,7 @@ The number of colors is limited, due to the limitations of the VGAX library and 
 
 **Be sure to change them before using the wrapper**.
 
-**This is just an example* and these colors will be 99.9% different for you than the ones defined**. **Don't use it**.
-
-*And a helper for me so I don't forget what colors are in my configuration.
+**This is just an example (and a helper for me so I don't forget what colors are in my configuration) and these colors will be 99.9% different for you than the ones defined**. **Don't use it**.
 
 ## 💻 Functions
 
